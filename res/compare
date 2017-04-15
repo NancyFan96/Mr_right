@@ -1,0 +1,47 @@
+result_movie-comments-100:
+score: 0.164948, tp = 16, n = 97
+==> score: 0.721649, tp = 70, n = 97
+
+result_movie-score-100:
+score: 0.000000, tp = 0, n = 90
+==> score: 0.866667, tp = 78, n = 90
+
+result_movie-title-100:
+score: 0.050000, tp = 5, n = 100
+==> score: 0.360000, tp = 36, n = 100
+
+result_news-title-100:
+score: 0.600000, tp = 60, n = 100
+==> score: 0.440000, tp = 44, n = 100
+
+result_news-writer-100:
+score: 0.208333, tp = 20, n = 96
+==> score: 0.208333, tp = 20, n = 96
+
+result_product-price-100:
+score: 0.000000, tp = 0, n = 99
+==> score: 0.848485, tp = 84, n = 99
+
+result_product-tags-100:
+score: 0.000000, tp = 0, n = 100
+==> score: 0.000000, tp = 0, n = 100
+
+result_product-title-100:
+score: 1.000000, tp = 100, n = 100
+==> score: 1.000000, tp = 100, n = 100
+
+result_restaurant-score-100:
+score: 0.000000, tp = 0, n = 86
+==> score: 0.104651, tp = 9, n = 86
+
+result_restaurant-title-100:
+score: 0.900000, tp = 90, n = 100
+==> score: 0.920000, tp = 92, n = 100
+
+result_video-description-100:
+score: 0.000000, tp = 0, n = 9
+==> score: 0.000000, tp = 0, n = 9
+
+result_video-title-100:
+score: 0.000000, tp = 0, n = 9
+==> score: 0.000000, tp = 0, n = 9

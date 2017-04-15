@@ -1,0 +1,153 @@
+file 1:
+[(u'movie_score', 0.9569095379765995), (u'restaurant_score', 0.93836696363903693), (u'news_title', 0.84215573703097024), (u'news_writer', 0.73524004746974725), (u'product_price', 0.71782268329422261), (u'movie_comments', 0.63437243211880545), (u'movie_title', 0.61758207750017202), (u'restaurant_title', 0.33855266780650284), (u'product_title', 0.11774705672236473)]
+
+file 10:
+[(u'movie_score', 0.95398461540444834), (u'restaurant_score', 0.87309953328531764), (u'news_title', 0.77574838039410343), (u'movie_comments', 0.6861104944060672), (u'product_price', 0.66711145448527387), (u'news_writer', 0.64421603311705677), (u'movie_title', 0.63590980771721861), (u'restaurant_title', 0.32062906221508841), (u'product_title', 0.14450976524701772)]
+
+file 100:
+[(u'movie_score', 0.96117817659487126), (u'restaurant_score', 0.93638799094491687), (u'news_title', 0.74219941080536544), (u'product_price', 0.69456611761698273), (u'movie_comments', 0.63087535742838408), (u'movie_title', 0.60877218325807203), (u'news_writer', 0.58782706081514724), (u'restaurant_title', 0.31524878826658354), (u'product_title', 0.11854108696105951)]
+
+file 11:
+[(u'movie_score', 0.96735215510529371), (u'restaurant_score', 0.91263009582668431), (u'news_title', 0.86083852414085205), (u'news_writer', 0.76512975310809828), (u'movie_comments', 0.66720070998790504), (u'product_price', 0.63709217518680938), (u'movie_title', 0.63326047183237244), (u'restaurant_title', 0.35478911653203721), (u'product_title', 0.19335060769762377)]
+
+file 13:
+[(u'movie_score', 0.97325362937792737), (u'restaurant_score', 0.89635947176832509), (u'news_title', 0.80845535442282723), (u'news_writer', 0.68810899330072095), (u'movie_comments', 0.66397866947744966), (u'movie_title', 0.62339255912726654), (u'product_price', 0.62099256615188803), (u'restaurant_title', 0.30552225473369821), (u'product_title', 0.13207468609669065)]
+
+file 14:
+[(u'movie_score', 0.97326588880525111), (u'restaurant_score', 0.89638538332813622), (u'news_title', 0.80849452866398708), (u'news_writer', 0.68815681044499732), (u'movie_comments', 0.66397578292113069), (u'movie_title', 0.62339940003480199), (u'product_price', 0.62100350943532057), (u'restaurant_title', 0.30541943252929693), (u'product_title', 0.13207861876661953)]
+
+file 16:
+[(u'restaurant_score', 0.92489412450069786), (u'movie_score', 0.89489116529239643), (u'news_title', 0.7790516886066472), (u'movie_title', 0.67315231380719598), (u'movie_comments', 0.57661362247423653), (u'news_writer', 0.53974971989255871), (u'product_price', 0.51016487010456357), (u'restaurant_title', 0.27680886857693554), (u'product_title', 0.11814982611007369)]
+
+file 17:
+[(u'movie_score', 0.96473350092251942), (u'restaurant_score', 0.92799745477608642), (u'news_title', 0.84084986609447299), (u'product_price', 0.71920776850693935), (u'movie_comments', 0.70811019070291692), (u'news_writer', 0.70545456950029717), (u'movie_title', 0.6858242163869207), (u'restaurant_title', 0.30866045196815406), (u'product_title', 0.11065503854884476)]
+
+file 18:
+[(u'movie_score', 0.92394803598408104), (u'restaurant_score', 0.82347622302074508), (u'movie_comments', 0.77575569384325582), (u'news_title', 0.7512638237831244), (u'movie_title', 0.7272358402296667), (u'product_price', 0.60255457745281638), (u'news_writer', 0.58018108778162358), (u'restaurant_title', 0.30803296871234076), (u'product_title', 0.11821213194518355)]
+
+file 19:
+[(u'movie_score', 0.97492037999051739), (u'restaurant_score', 0.89346724069875827), (u'news_title', 0.76790327271265613), (u'news_writer', 0.63787593707064871), (u'movie_comments', 0.62451894337254799), (u'movie_title', 0.58595357298537776), (u'product_price', 0.55419994467586486), (u'restaurant_title', 0.29416371098728594), (u'product_title', 0.1202256259103992)]
+
+file 2:
+[(u'movie_score', 0.9500095354244712), (u'restaurant_score', 0.89041355026292923), (u'news_title', 0.77207852814609623), (u'product_price', 0.73234015245506268), (u'news_writer', 0.65223344173140552), (u'movie_comments', 0.64038007500998184), (u'movie_title', 0.59705548053630941), (u'restaurant_title', 0.34169312970017879), (u'product_title', 0.14268751766447493)]
+
+file 20:
+[(u'movie_score', 0.97316125357055316), (u'restaurant_score', 0.89617836432599018), (u'news_title', 0.80830112269147791), (u'news_writer', 0.68794925745424107), (u'movie_comments', 0.66400490553719138), (u'movie_title', 0.623351782578903), (u'product_price', 0.62098966399606836), (u'restaurant_title', 0.30544321853654699), (u'product_title', 0.13210083664208996)]
+
+file 21:
+[(u'movie_score', 0.9511185290320836), (u'restaurant_score', 0.86852108197193567), (u'news_title', 0.82047119004318814), (u'movie_comments', 0.71020679442315271), (u'news_writer', 0.69127031450186172), (u'movie_title', 0.66854351546277646), (u'product_price', 0.64492320320697072), (u'restaurant_title', 0.33216464165513515), (u'product_title', 0.1162516609936404)]
+
+file 22:
+[(u'movie_score', 0.9635612359013479), (u'restaurant_score', 0.926179298744219), (u'news_title', 0.86432498372896838), (u'news_writer', 0.73701103243639277), (u'movie_comments', 0.72771360091556281), (u'movie_title', 0.70821622048809574), (u'product_price', 0.6699315054542424), (u'restaurant_title', 0.35468474303600983), (u'product_title', 0.20175791513946245)]
+
+file 23:
+[(u'movie_score', 0.97822971488557597), (u'restaurant_score', 0.91282690830474145), (u'news_title', 0.75908894828422424), (u'product_price', 0.6314547893232072), (u'news_writer', 0.62647007365550045), (u'movie_comments', 0.62260878685693588), (u'movie_title', 0.58697290870400287), (u'restaurant_title', 0.32418864906651151), (u'product_title', 0.11789052819674849)]
+
+file 24:
+[(u'restaurant_score', 0.94808247008118862), (u'movie_score', 0.93369306873366953), (u'news_title', 0.90931071850299372), (u'movie_title', 0.76981525447073962), (u'news_writer', 0.71502960540790672), (u'movie_comments', 0.70775035607186454), (u'product_price', 0.56979601617239672), (u'restaurant_title', 0.315739157773959), (u'product_title', 0.18375367554293606)]
+
+file 25:
+[(u'movie_score', 0.96496403200165792), (u'restaurant_score', 0.92935823577340038), (u'news_title', 0.86630338377435345), (u'news_writer', 0.73656770408622907), (u'movie_comments', 0.72725671237515832), (u'movie_title', 0.71045472872652071), (u'product_price', 0.66764917047035999), (u'restaurant_title', 0.35414469279264926), (u'product_title', 0.2019142910815519)]
+
+file 27:
+[(u'movie_score', 0.95603793659775693), (u'restaurant_score', 0.89706519871905499), (u'news_title', 0.82979849976396747), (u'news_writer', 0.73120396177327995), (u'movie_comments', 0.67107986193261082), (u'product_price', 0.64315690568721662), (u'movie_title', 0.62934166045598683), (u'restaurant_title', 0.3569050549968707), (u'product_title', 0.25206958821804321)]
+
+file 28:
+[(u'movie_score', 0.96181198786831679), (u'restaurant_score', 0.87505969689779217), (u'news_title', 0.85815463406911541), (u'news_writer', 0.76852763846738181), (u'movie_comments', 0.68596928778297173), (u'movie_title', 0.63905347894958731), (u'product_price', 0.54560738293759603), (u'restaurant_title', 0.29106656087780974), (u'product_title', 0.13038136863661318)]
+
+file 29:
+[(u'movie_score', 0.89839613587810807), (u'restaurant_score', 0.89050612103308124), (u'news_title', 0.85116334427176221), (u'product_price', 0.74896128066687329), (u'news_writer', 0.7397481396780754), (u'movie_comments', 0.72764054022354496), (u'movie_title', 0.70753846939702514), (u'restaurant_title', 0.30563375012931476), (u'product_title', 0.12113983098859435)]
+
+file 3:
+[(u'movie_score', 0.96103418835148746), (u'restaurant_score', 0.93647919543821967), (u'news_title', 0.7424860243020277), (u'product_price', 0.69530265983857842), (u'movie_comments', 0.63125454985143303), (u'movie_title', 0.6092534846822879), (u'news_writer', 0.58811535457873942), (u'restaurant_title', 0.31525071041794039), (u'product_title', 0.1183276655628603)]
+
+file 30:
+[(u'movie_score', 0.95599238863540748), (u'restaurant_score', 0.89720177607486939), (u'news_title', 0.82999138275935636), (u'news_writer', 0.73140676353026646), (u'movie_comments', 0.67113795179069324), (u'product_price', 0.64391364579143184), (u'movie_title', 0.62945290057189596), (u'restaurant_title', 0.35707311238054495), (u'product_title', 0.25169545091461432)]
+
+file 31:
+[(u'restaurant_score', 0.94375422411619792), (u'movie_score', 0.93126285897659933), (u'news_title', 0.77274438937572709), (u'movie_title', 0.6405824095554018), (u'movie_comments', 0.56623042614660912), (u'news_writer', 0.55031586673434663), (u'product_price', 0.52820211824014573), (u'restaurant_title', 0.31982308467142606), (u'product_title', 0.11994236766019063)]
+
+file 32:
+[(u'restaurant_score', 0.94375422411619792), (u'movie_score', 0.93126285897659933), (u'news_title', 0.77274438937572709), (u'movie_title', 0.6405824095554018), (u'movie_comments', 0.56623042614660912), (u'news_writer', 0.55031586673434663), (u'product_price', 0.52820211824014573), (u'restaurant_title', 0.31982308467142606), (u'product_title', 0.11994236766019063)]
+
+file 33:
+[(u'movie_score', 0.9731175826622922), (u'restaurant_score', 0.89637806623748828), (u'news_title', 0.80852521093709728), (u'news_writer', 0.68831961968215261), (u'movie_comments', 0.66379911245908407), (u'movie_title', 0.62320180802892855), (u'product_price', 0.62216881729008422), (u'restaurant_title', 0.30572520610761184), (u'product_title', 0.13207633601077412)]
+
+file 34:
+[(u'movie_score', 0.91583129016591258), (u'restaurant_score', 0.89699031921945327), (u'news_title', 0.86457048076567089), (u'product_price', 0.75768537472355646), (u'news_writer', 0.74673935575560701), (u'movie_comments', 0.74216795558832493), (u'movie_title', 0.72022118488451836), (u'restaurant_title', 0.32473546064550746), (u'product_title', 0.12192714031118412)]
+
+file 35:
+[(u'movie_score', 0.95344875830233544), (u'restaurant_score', 0.90356124957090045), (u'news_title', 0.89910204609805044), (u'news_writer', 0.77968723684159169), (u'movie_comments', 0.76993736508962662), (u'movie_title', 0.74410518684402194), (u'product_price', 0.62468098866601307), (u'restaurant_title', 0.33910708528940253), (u'product_title', 0.14711334561303124)]
+
+file 36:
+[(u'movie_score', 0.97313349859557341), (u'restaurant_score', 0.89639129145369068), (u'news_title', 0.80854780496445344), (u'news_writer', 0.68834732832742407), (u'movie_comments', 0.66379488552171373), (u'movie_title', 0.62320148327725522), (u'product_price', 0.62209343206048695), (u'restaurant_title', 0.30576636461728623), (u'product_title', 0.13215121889811368)]
+
+file 37:
+[(u'restaurant_score', 0.92232810239694751), (u'movie_score', 0.90162608935649802), (u'news_title', 0.7587839866240067), (u'movie_title', 0.66880750225021257), (u'movie_comments', 0.58395555810652022), (u'product_price', 0.5394207674815007), (u'news_writer', 0.51477797285991322), (u'restaurant_title', 0.2774046666546594), (u'product_title', 0.106391746552188)]
+
+file 38:
+[(u'news_title', 0.93468685948830943), (u'movie_score', 0.92385459953286886), (u'restaurant_score', 0.90386750772829993), (u'news_writer', 0.80338169207392485), (u'movie_title', 0.78310454772475979), (u'movie_comments', 0.78261051908767243), (u'product_price', 0.6587640863547144), (u'restaurant_title', 0.31643506821920803), (u'product_title', 0.14782720489156512)]
+
+file 39:
+[(u'movie_score', 0.91719076274878153), (u'restaurant_score', 0.82760716919444643), (u'news_title', 0.62989191922016274), (u'product_price', 0.58950495985545648), (u'movie_comments', 0.5360446653005656), (u'news_writer', 0.48931587926253706), (u'movie_title', 0.48701216105439077), (u'restaurant_title', 0.27165313998169888), (u'product_title', 0.092647219208286447)]
+
+file 4:
+[(u'movie_score', 0.97431576369281636), (u'restaurant_score', 0.89910261473435471), (u'news_title', 0.79115171552219432), (u'news_writer', 0.68075000291657528), (u'movie_comments', 0.63565916673719303), (u'movie_title', 0.59067080747975476), (u'product_price', 0.59045092743609884), (u'restaurant_title', 0.35422270038372244), (u'product_title', 0.13261651856124529)]
+
+file 41:
+[(u'movie_score', 0.91869172574650326), (u'restaurant_score', 0.84036449284680004), (u'product_price', 0.69055774608303022), (u'news_title', 0.67093977339600919), (u'movie_comments', 0.56684043359043224), (u'news_writer', 0.53897236314849373), (u'movie_title', 0.51960704933737556), (u'restaurant_title', 0.28886173937649962), (u'product_title', 0.11664581212737592)]
+
+file 42:
+[(u'movie_score', 0.95862429384395931), (u'restaurant_score', 0.90571312454219177), (u'news_title', 0.85613488833755591), (u'news_writer', 0.73170149510076521), (u'movie_comments', 0.69943256759366523), (u'product_price', 0.69377070256345541), (u'movie_title', 0.67297189596051565), (u'restaurant_title', 0.35345672406528711), (u'product_title', 0.14560591535632486)]
+
+file 43:
+[(u'movie_score', 0.95882726357360326), (u'restaurant_score', 0.90589392596895557), (u'news_title', 0.85630727218775549), (u'news_writer', 0.73201092135404255), (u'movie_comments', 0.69937577328473244), (u'product_price', 0.69342789261003812), (u'movie_title', 0.67288837632035847), (u'restaurant_title', 0.3530903284906568), (u'product_title', 0.14549672781486248)]
+
+file 44:
+[(u'movie_score', 0.96446759683858474), (u'restaurant_score', 0.87374913671258458), (u'news_title', 0.81203565118552268), (u'movie_comments', 0.70590300187123034), (u'news_writer', 0.6895868350675326), (u'movie_title', 0.65587692757052707), (u'product_price', 0.55712524923907569), (u'restaurant_title', 0.28774412121457621), (u'product_title', 0.12333168454136219)]
+
+file 45:
+[(u'movie_score', 0.91715183834757807), (u'restaurant_score', 0.82743402053455961), (u'news_title', 0.62969914969132124), (u'product_price', 0.58872416037272923), (u'movie_comments', 0.53575626754757399), (u'news_writer', 0.48918120761099682), (u'movie_title', 0.48671021387966801), (u'restaurant_title', 0.27145639763206442), (u'product_title', 0.092793390409303997)]
+
+file 46:
+[(u'movie_score', 0.96372365283329231), (u'restaurant_score', 0.87317493237398558), (u'news_title', 0.76085766813694122), (u'news_writer', 0.65410362004610034), (u'movie_comments', 0.58216676004462142), (u'movie_title', 0.53956349086861077), (u'product_price', 0.48386885250202855), (u'restaurant_title', 0.32369621700972501), (u'product_title', 0.11522101762079344)]
+
+file 49:
+[(u'movie_score', 0.95114604517959922), (u'restaurant_score', 0.86856553499934919), (u'news_title', 0.82050986705966011), (u'movie_comments', 0.71016072217435544), (u'news_writer', 0.6913132461301229), (u'movie_title', 0.66852195456590391), (u'product_price', 0.64481426848823631), (u'restaurant_title', 0.33249273095780812), (u'product_title', 0.11625577892075802)]
+
+file 5:
+[(u'movie_score', 0.95608883058320515), (u'restaurant_score', 0.9378006876161753), (u'news_title', 0.8420212866586898), (u'news_writer', 0.7358457576494003), (u'product_price', 0.71906606216694757), (u'movie_comments', 0.63295917379953892), (u'movie_title', 0.6161318302695219), (u'restaurant_title', 0.33975030071742363), (u'product_title', 0.11692263943291863)]
+
+file 50:
+[(u'movie_score', 0.96113626774333749), (u'restaurant_score', 0.89444195799232318), (u'news_title', 0.83743299826230433), (u'news_writer', 0.72071970437578226), (u'movie_comments', 0.71086781931193765), (u'product_price', 0.68636874217600619), (u'movie_title', 0.66885904486602898), (u'restaurant_title', 0.34099323181503038), (u'product_title', 0.14012175288615131)]
+
+file 51:
+[(u'movie_score', 0.96235098700461819), (u'restaurant_score', 0.94468658603941225), (u'news_title', 0.82450230984605655), (u'movie_title', 0.68577567822576391), (u'movie_comments', 0.65217308486926928), (u'news_writer', 0.62949860970583882), (u'product_price', 0.62022627709713529), (u'restaurant_title', 0.33920077270978888), (u'product_title', 0.12581668321723147)]
+
+file 53:
+[(u'movie_score', 0.97491512603984087), (u'restaurant_score', 0.89340258406049), (u'news_title', 0.76836122745353075), (u'news_writer', 0.63839511376509994), (u'movie_comments', 0.62529537653312539), (u'movie_title', 0.5866300986903934), (u'product_price', 0.55473842600490453), (u'restaurant_title', 0.29502216932062819), (u'product_title', 0.12141427789682167)]
+
+file 54:
+[(u'movie_score', 0.97811913674040252), (u'restaurant_score', 0.91262307553395783), (u'news_title', 0.75907860187086762), (u'product_price', 0.63159932609499092), (u'news_writer', 0.62668508006775325), (u'movie_comments', 0.62270908502473488), (u'movie_title', 0.58690618085611179), (u'restaurant_title', 0.32521122155294113), (u'product_title', 0.11786652651974554)]
+
+file 55:
+[(u'movie_score', 0.95304279678059589), (u'restaurant_score', 0.90321423044269311), (u'news_title', 0.89948831849457733), (u'news_writer', 0.78029556876162798), (u'movie_comments', 0.77022904244166912), (u'movie_title', 0.74437227378641102), (u'product_price', 0.6251462318584512), (u'restaurant_title', 0.3399970940926777), (u'product_title', 0.14718255488039539)]
+
+file 56:
+[(u'movie_score', 0.92383390052184411), (u'restaurant_score', 0.8249160029896434), (u'movie_comments', 0.79561539296891515), (u'news_title', 0.76568306141497611), (u'movie_title', 0.7480089707311246), (u'product_price', 0.60563229122789541), (u'news_writer', 0.59431211878198342), (u'restaurant_title', 0.31469702687983914), (u'product_title', 0.12179957707153777)]
+
+file 57:
+[(u'movie_score', 0.89555694960142207), (u'restaurant_score', 0.88116579506535975), (u'news_title', 0.82788409538706342), (u'product_price', 0.81148473681928446), (u'movie_comments', 0.71689016926698568), (u'news_writer', 0.70699826961637124), (u'movie_title', 0.69248890258471008), (u'restaurant_title', 0.30966591160008922), (u'product_title', 0.13810545425265208)]
+
+file 58:
+[(u'movie_score', 0.9646712994062403), (u'restaurant_score', 0.92749381222013483), (u'news_title', 0.84071533196711068), (u'product_price', 0.71947565889786347), (u'movie_comments', 0.7081664863205589), (u'news_writer', 0.70538237116286862), (u'movie_title', 0.68564772709254285), (u'restaurant_title', 0.30804829498816649), (u'product_title', 0.11053922096940443)]
+
+file 59:
+[(u'movie_score', 0.9586801644131554), (u'restaurant_score', 0.9059044805291856), (u'news_title', 0.85676633956678394), (u'news_writer', 0.7324423700549354), (u'movie_comments', 0.69965545431942144), (u'product_price', 0.69352694445924223), (u'movie_title', 0.67330350087570068), (u'restaurant_title', 0.35314897597939765), (u'product_title', 0.14480967277363746)]
+
+file 6:
+[(u'movie_score', 0.93794245578633195), (u'restaurant_score', 0.84884779153231149), (u'news_title', 0.70489693582216995), (u'news_writer', 0.62353490204221307), (u'movie_comments', 0.46328282602061682), (u'product_price', 0.44061126231524744), (u'movie_title', 0.41831126043061451), (u'restaurant_title', 0.26795476177433114), (u'product_title', 0.10999462162527579)]
+
+file 60:
+[(u'movie_score', 0.96452229741172746), (u'restaurant_score', 0.92704019474801647), (u'news_title', 0.84017692830290402), (u'product_price', 0.71982074226906589), (u'movie_comments', 0.7079808674885173), (u'news_writer', 0.70492665273131605), (u'movie_title', 0.68517572985685848), (u'restaurant_title', 0.3092916819661124), (u'product_title', 0.11072772405996037)]
+
