@@ -10,6 +10,7 @@ import numpy as np
 import logging
 import codecs
 from nltk.corpus import stopwords
+import argparse
 
 cns = stopwords.words('chinese')
 
@@ -181,24 +182,40 @@ def tag_vector():
 
     return  tag_vectors
 
-
-if __name__ == '__main__':
-    # dictionary, all_corpus, corpus_dict = pre_process()
-    #
-    # lsi, corpus_lsi = train_lsi(all_corpus, dictionary)
-    # lsi.print_topics(num_topics=10)
-    # tag_dict = json.loads(open(dir + '/pre/tag.dict').read())
-    # print tag_dict
-
+def wrapper(item):
     # _tag_vectors = tag_vector()
     tag_vectors = json.loads(open("tag_vectors").read())
+
     # test_lsi("tag_test", tag_vectors)
+
+
     lsi = models.LsiModel.load(dir + '/pre/all.lsi', mmap='r')
     dic = corpora.Dictionary.load(dir + '/pre/all.dict', mmap='r')
-    entry, entry_doc = crawler.fetch_html_doc("小红袍香港私房火锅料理")
+    entry, entry_doc = crawler.fetch_html_doc(item)
     sorted_cos = pred_lsi(lsi, dic, tag_vectors, entry_doc)
-    print sorted_cos
-    # print entry
+    print sorted_cos, "\nreturn the first rank..."
+    return sorted_cos[0][0], sorted_cos[0][1]
+
+
+if __name__ == '__main__':
+    # construct the argument parse and parse the arguments
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-i", "--item",required=True,
+                    help="entry words")
+    args = vars(ap.parse_args())
+
+    item = args["item"]
+
+    # dictionary, all_corpus, corpus_dict = pre_process()
+    # lsi, corpus_lsi = train_lsi(all_corpus, dictionary)
+    # lsi.print_topics(num_topics=10)
+
+
+    pred, conf = wrapper(item)
+
+    print pred, conf
+
+     # print entry
     # f = codecs.open("sb", "w", "utf-8")
     # f.write(json.dumps(entry_doc, ensure_ascii=False))
     # print entry_doc
